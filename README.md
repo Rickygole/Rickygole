@@ -1,16 +1,25 @@
-## Hi there 👋
+# Ricky Gole
 
-<!--
-**Rickygole/Rickygole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build and evaluate AI systems where mistakes are costly. My focus is evaluation methodology, clinical NLP, and AI safety.
 
-Here are some ideas to get you started:
+## Research
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **The Semantic Gap in Behavioral Embeddings: Why Linear Methods Fail for Educational RAG in Mathematics** (EDM 2026). [Code](https://github.com/Rickygole/semantic-gap-educational-rag)
+- **MS thesis, Morgan State University:** where a clinical NLP pipeline fails, audited stage by stage. [Code](https://github.com/Rickygole/provenance-encoder)
+
+## Selected projects
+
+| Project | What it is |
+| --- | --- |
+| [Bias-Lab](https://github.com/Rickygole/Bias-Lab) | Interactive lab where students train a classifier in the browser, drag one threshold, and watch who absorbs the error. |
+| [k2l-readaloud](https://github.com/Rickygole/k2l-readaloud) | Browser-only oral reading fluency assessor. Local Whisper, no server, no LLM, no student audio leaves the device. |
+| [LedgerLine](https://github.com/Rickygole/LedgerLine) | Initiative reporting demo for NYC Council Finance, built on synthetic data. [Live site](https://ledgerline-eosin.vercel.app) |
+| [provenance-encoder](https://github.com/Rickygole/provenance-encoder) | Code and aggregate results for the thesis above. Contains no MIMIC-III data. |
+
+## Stack
+
+Python, JavaScript, Jupyter
+
+## Contact
+
+rickygole32@gmail.com

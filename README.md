@@ -1,4 +1,6 @@
-<p align="center"><img src="header.svg?v=2" alt="Ricky Gole" width="100%"></p>
+<p align="center"><img src="header.svg?v=3" alt="Ricky Gole" width="100%"></p>
+
+
 
 
 <p align="center">
@@ -10,6 +12,8 @@
 </p>
 
 
+
+
 Graduate student at Morgan State University. I build and evaluate AI systems where mistakes are costly, with a focus on evaluation methodology, clinical NLP, and AI safety.
 
 
@@ -19,7 +23,23 @@ Graduate student at Morgan State University. I build and evaluate AI systems whe
 
 
 
+
+
+
+
+
+
+
+
 ## Research
+
+
+
+
+
+
+
+
 
 
 
@@ -38,7 +58,23 @@ Graduate student at Morgan State University. I build and evaluate AI systems whe
 
 
 
+
+
+
+
+
+
+
+
 ## Selected projects
+
+
+
+
+
+
+
+
 
 
 
@@ -51,4 +87,3 @@ Graduate student at Morgan State University. I build and evaluate AI systems whe
 | --- | --- |
 | [Bias-Lab](https://github.com/Rickygole/Bias-Lab) | Interactive lab where students train a classifier in the browser, drag one threshold, and watch who absorbs the error. |
 | [k2l-readaloud](https://github.com/Rickygole/k2l-readaloud) | Browser-only oral reading fluency assessor. Local Whisper, no server, no LLM, no student audio leaves the device. |
-

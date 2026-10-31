@@ -1,4 +1,5 @@
-<p align="center"><img src="header.svg" alt="Ricky Gole" width="100%"></p>
+<p align="center"><img src="header.svg?v=2" alt="Ricky Gole" width="100%"></p>
+
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -8,12 +9,21 @@
 <a href="mailto:rickygole32@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
+
 Graduate student at Morgan State University. I build and evaluate AI systems where mistakes are costly, with a focus on evaluation methodology, clinical NLP, and AI safety.
 
 
 
 
+
+
+
+
 ## Research
+
+
+
+
 
 
 
@@ -24,7 +34,15 @@ Graduate student at Morgan State University. I build and evaluate AI systems whe
 
 
 
+
+
+
+
 ## Selected projects
+
+
+
+
 
 
 
@@ -33,3 +51,4 @@ Graduate student at Morgan State University. I build and evaluate AI systems whe
 | --- | --- |
 | [Bias-Lab](https://github.com/Rickygole/Bias-Lab) | Interactive lab where students train a classifier in the browser, drag one threshold, and watch who absorbs the error. |
 | [k2l-readaloud](https://github.com/Rickygole/k2l-readaloud) | Browser-only oral reading fluency assessor. Local Whisper, no server, no LLM, no student audio leaves the device. |
+

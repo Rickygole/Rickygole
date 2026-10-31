@@ -1,6 +1,6 @@
 # Ricky Gole
 
-I build and evaluate AI systems where mistakes are costly. My focus is evaluation methodology, clinical NLP, and AI safety.
+Graduate student at Morgan State University. I build and evaluate AI systems where mistakes are costly, with a focus on evaluation methodology, clinical NLP, and AI safety.
 
 ## Research
 
@@ -14,7 +14,6 @@ I build and evaluate AI systems where mistakes are costly. My focus is evaluatio
 | [Bias-Lab](https://github.com/Rickygole/Bias-Lab) | Interactive lab where students train a classifier in the browser, drag one threshold, and watch who absorbs the error. |
 | [k2l-readaloud](https://github.com/Rickygole/k2l-readaloud) | Browser-only oral reading fluency assessor. Local Whisper, no server, no LLM, no student audio leaves the device. |
 | [LedgerLine](https://github.com/Rickygole/LedgerLine) | Initiative reporting demo for NYC Council Finance, built on synthetic data. [Live site](https://ledgerline-eosin.vercel.app) |
-| [provenance-encoder](https://github.com/Rickygole/provenance-encoder) | Code and aggregate results for the thesis above. Contains no MIMIC-III data. |
 
 ## Stack
 
@@ -22,4 +21,4 @@ Python, JavaScript, Jupyter
 
 ## Contact
 
-rickygole32@gmail.com
+[rickygole32@gmail.com](mailto:rickygole32@gmail.com) | [Hugging Face](https://huggingface.co/rickygole)
